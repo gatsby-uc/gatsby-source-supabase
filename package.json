@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-supabase",
+  "version": "1.0.0",
+  "description": "A very simple source gatsby source plugin for supabase.",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "supabase"
+  ],
+  "author": "Alan Alickovic",
+  "license": "ISC",
+  "devDependencies": {
+    "@supabase/supabase-js": "^1.8.0"
+  }
+}
