@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td valign="top"><img height="100px" width="100px" src="./assets/gatsby-logo.png"></td>
-    <td valign="top"> <img height="100px" width="100px" src="./assets/supabase-logo.png"></td>
+    <td valign="top"><img height="100px" width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Fda3jJaA--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2653/80840bff-1061-4544-841e-86da7aa1dd8e.png"></td>
+    <td valign="top"> <img height="100px" width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png"></td>
   </tr>
 </table>
 
 [![NPM](https://img.shields.io/npm/v/gatsby-source-supabase.svg)](https://www.npmjs.com/package/gatsby-source-supabase)
 
-A very simple gatsby source plugin for supabase.
+Gatsby source plugin for building websites using Supabase as a data source
 
 ## How to install
 
@@ -115,3 +115,17 @@ Will result with:
   }
 }
 ```
+
+## Contributing
+
+If you have some usecases that are not currently covered by the plugin, you are more than welcome to contribute:
+
+1. Clone this repo
+2. Create a branch: `git checkout -b your-feature`
+3. Make some changes
+4. Test your changes
+5. Push your branch and open a Pull Request
+
+## LICENSE
+
+MIT
